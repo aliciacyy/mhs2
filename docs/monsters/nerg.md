@@ -3,7 +3,7 @@
 ## Attack patterns
 1. Normal - <span style="color:green">Technical</span>
 2. White spikes - <span style="color:red">Power</span>
-    - Note: Attacks twice
+    - Attacks twice
     - Destroy all parts to trigger knockdown
 3. Enraged - <span style="color:blue">Speed</span>
 

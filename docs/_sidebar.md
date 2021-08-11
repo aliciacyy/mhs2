@@ -1,3 +1,3 @@
 * [Home](/)
-* [Monsters](/monsters/)
+* [Monsters]()
   * [Nergigante](/monsters/nerg)
