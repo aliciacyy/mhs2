@@ -3,8 +3,8 @@
 Hello. This is just a quick reference guide on post-game monsters. WIP.
 
 ## Changelog
-2021-08-11
-- Initialise this webpage
+**2021-08-11**
+- Initialised this webpage
 - Added Nergigante
 
 ## Credits
