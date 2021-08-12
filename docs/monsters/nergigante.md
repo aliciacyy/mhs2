@@ -1,22 +1,21 @@
 # Nergigante
 
-## Attack patterns
+### Attack patterns
 1. Normal - <span style="color:green">Technical</span>
 2. White spikes - <span style="color:red">Power</span>
     - Attacks twice
-    - Destroy all parts to trigger knockdown
 3. Enraged - <span style="color:blue">Speed</span>
 
-## Parts
+### Parts
 1. Normal
     - No body part - Slash
-2. White spikes
+2. White spikes (Break all parts to trigger knockdown)
     - Legs - Slash
     - Head - Blunt
     - Wings - Slash
 
-## Element weakness
+### Element weakness
 Thunder
 
-## Egg pattern
-![image info](../assets/nergigante.jpg)
+### Egg pattern
+![image info](../assets/nergigante.png)
