@@ -28,4 +28,3 @@ WIP, but it will not be the full list.
 
 ### Credits
 - [Kiranico](https://mhst.kiranico.com/mhs2/) - Egg images
-- [Pro Game Guides](https://progameguides.com/) - Monster attack patterns reference
