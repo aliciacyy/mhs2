@@ -1,11 +1,11 @@
 # Rajang
 
 ### Attack patterns
-1. Normal - <span style="color:red">Power</span>
-2. After Technical Aura - <span style="color:green">Technical</span>
+1. Normal - Power
+2. After Technical Aura - Technical
     - Attacks twice
     - Thundercrack: All targets
-3. After Technical Aura - <span style="color:blue">Speed</span>
+3. After Technical Aura - Speed
     - Attacks twice
     - Mach Punch: Single target
   
@@ -21,4 +21,6 @@
 Ice
 
 ### Egg pattern
-![image info](../assets/nergigante.png)
+![image info](../assets/rajang.png)
+
+Egg Tags: 

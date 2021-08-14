@@ -1,11 +1,11 @@
 # Hellblade Glavenus
 
 ### Attack patterns
-1. Normal - <span style="color:red">Power</span>
-2. After Mega Fireball Charge - <span style="color:blue">Speed</span> (~3 times)
+1. Normal - Power
+2. After Mega Fireball Charge - Speed (~3 times)
    - Flame Chakram - Single target
    - Explosive Tail - All targets (will keep repeating until tail is broken)
-3. After tail broken: <span style="color:red">Power</span>
+3. After tail broken: Power
 
 ### Parts
 1. Head - Slash 
@@ -17,3 +17,5 @@ Water
 
 ### Egg pattern
 ![image info](../assets/hellblade_glavenus.png)
+
+Egg Tags: 

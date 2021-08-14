@@ -1,8 +1,8 @@
 # Iodrome
 
 ### Attack patterns
-1. Normal - <span style="color:blue">Speed</span>
-2. Enraged - <span style="color:red">Power</span>
+1. Normal - Speed
+2. Enraged - Power
 
 ### Parts
 Slash
@@ -12,3 +12,5 @@ Water
 
 ### Egg pattern
 ![image info](../assets/iodrome.png)
+
+Egg Tags: 

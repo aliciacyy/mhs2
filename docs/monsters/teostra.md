@@ -1,11 +1,11 @@
 # Teostra
 
 ### Attack patterns
-1. Normal - <span style="color:blue">Speed</span>
-2. Enraged - <span style="color:red">Power</span>
+1. Normal - Speed
+2. Enraged - Power
     - Firepowder: Single target, inflicts Blastblight
     - Dust Explosion: All targets, flies on next turn
-3. Flying - <span style="color:green">Technical</span>
+3. Flying - Technical
     - Flare Storm: All targets, back to Normal next turn
 
 ### Parts
@@ -18,4 +18,6 @@
 Water
 
 ### Egg pattern
-![image info](../assets/nergigante.png)
+![image info](../assets/teostra.png)
+
+Egg Tags: 

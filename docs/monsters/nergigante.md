@@ -1,10 +1,10 @@
 # Nergigante
 
 ### Attack patterns
-1. Normal - <span style="color:green">Technical</span>
-2. White spikes - <span style="color:red">Power</span>
+1. Normal - Technical
+2. White spikes - Power
     - Attacks twice
-3. Enraged - <span style="color:blue">Speed</span>
+3. Enraged - Speed
 
 ### Parts
 1. Normal
@@ -19,3 +19,5 @@ Thunder
 
 ### Egg pattern
 ![image info](../assets/nergigante.png)
+
+Egg Tags: 

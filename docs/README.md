@@ -1,12 +1,15 @@
 # Monster Hunter Stories 2 - Quick Reference
 
-Hello. I created this page as a quick reference guide on some post-game monsters based on my own game experiences.
+Hello. I created this page as a quick reference guide on MHS2 large monsters.
 
 Details include the monster attack patterns, skills used, parts to break, element weakness and egg pattern.
 
 WIP, but it will not be the full list.
 
 ### Changelog
+**2021-08-15**
+- Added the rest of large monsters (part/element weakness & egg tags WIP)
+
 **2021-08-12**
 - Added the following monsters:
   - Altaroth
@@ -24,4 +27,5 @@ WIP, but it will not be the full list.
 - Added Nergigante
 
 ### Credits
-- [Egg images](https://mhst.kiranico.com/mhs2/)
+- [Kiranico](https://mhst.kiranico.com/mhs2/) - Egg images
+- [Pro Game Guides](https://progameguides.com/) - Monster attack patterns reference

@@ -1,11 +1,11 @@
 # Kushala Daora
 
 ### Attack patterns
-1. Normal - <span style="color:green">Technical</span>
+1. Normal - Technical
    - Steadfast Cyclone - Damages and inflicts Cyclone-Struck, flies in next turn
-2. Flying - <span style="color:blue">Speed</span>
+2. Flying - Speed
     - Aerial Strike: Single target, lands in next turn
-3. Enraged- <span style="color:red">Power</span>
+3. Enraged- Power
     - Cyclone Tackle: Single target, ends Enraged
 
 ### Parts
@@ -19,3 +19,5 @@ Thunder
 
 ### Egg pattern
 ![image info](../assets/kushala_daora.png)
+
+Egg Tags: 

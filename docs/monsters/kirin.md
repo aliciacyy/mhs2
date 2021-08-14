@@ -1,8 +1,8 @@
 # Kirin
 
 ### Attack patterns
-1. Normal - <span style="color:blue">Speed</span>
-2. Enraged - <span style="color:green">Technical</span>
+1. Normal - Speed
+2. Enraged - Technical
     - Lightning Strike: Single target
     - Thundercrack: All targets
     - Electric Charge: Back to Normal next turn
@@ -16,3 +16,5 @@ Fire
 
 ### Egg pattern
 ![image info](../assets/kirin.png)
+
+Egg Tags: 
