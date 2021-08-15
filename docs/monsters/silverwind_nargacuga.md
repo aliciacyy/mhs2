@@ -11,7 +11,7 @@
 4. Tail - 
 
 ### Element weakness
-Fire 
+Thunder 
 
 ### Egg pattern
 ![image info](../assets/silverwind_nargacuga.png)

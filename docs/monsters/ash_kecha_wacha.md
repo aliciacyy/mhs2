@@ -5,13 +5,13 @@
 2. Enraged - Speed
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Slash
+2. Body - Slash
+3. Tail - Slash
+4. Claws - Blunt
 
 ### Element weakness
-Fire 
+Water 
 
 ### Egg pattern
 ![image info](../assets/ash_kecha_wacha.png)

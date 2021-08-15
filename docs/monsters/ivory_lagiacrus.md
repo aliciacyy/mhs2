@@ -12,7 +12,7 @@
 4. Tail - 
 
 ### Element weakness
-Fire 
+Dragon 
 
 ### Egg pattern
 ![image info](../assets/ivory_lagiacrus.png)

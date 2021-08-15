@@ -3,6 +3,8 @@
 ### Attack patterns
 1. Normal - Technical
 2. Enraged - Speed
+   - Attacks twice
+   - Bewitching Bubbles: All targets
 
 ### Parts
 1. Head - 
@@ -11,7 +13,7 @@
 4. Tail - 
 
 ### Element weakness
-Fire 
+Thunder 
 
 ### Egg pattern
 ![image info](../assets/mizutsune.png)

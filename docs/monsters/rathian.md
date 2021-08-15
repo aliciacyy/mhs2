@@ -11,7 +11,7 @@
 4. Tail - 
 
 ### Element weakness
-Fire 
+Dragon 
 
 ### Egg pattern
 ![image info](../assets/rathian.png)

@@ -12,7 +12,7 @@
 4. Tail - 
 
 ### Element weakness
-Fire 
+Water 
 
 ### Egg pattern
 ![image info](../assets/glavenus.png)

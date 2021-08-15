@@ -13,4 +13,5 @@
 4. Tail - 
 
 ### Element weakness
-Fire 
+- Gold: Thunder
+- Second Form: Ice

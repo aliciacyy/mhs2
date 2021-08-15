@@ -5,15 +5,13 @@
 2. Enraged - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Body - Slash
+2. Tail - Blunt (Break for knockdown)
 
 ### Element weakness
-Fire 
+Dragon 
 
 ### Egg pattern
 ![image info](../assets/pink_rathian.png)
 
-Egg Tags: 
+Egg Tags: pink,red

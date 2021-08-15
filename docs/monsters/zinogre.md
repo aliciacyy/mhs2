@@ -12,7 +12,7 @@
 4. Tail - 
 
 ### Element weakness
-Fire 
+Ice 
 
 ### Egg pattern
 ![image info](../assets/zinogre.png)

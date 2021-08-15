@@ -1,7 +1,7 @@
-# White Monoblos
+# Seltas
 
 ### Attack patterns
-1. Normal - Power
+1. Normal - Technical
 2. Enraged - Speed
 
 ### Parts
@@ -11,9 +11,4 @@
 4. Tail - 
 
 ### Element weakness
-Ice 
-
-### Egg pattern
-![image info](../assets/white_monoblos.png)
-
-Egg Tags: 
+Fire 

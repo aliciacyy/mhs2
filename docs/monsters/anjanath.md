@@ -5,13 +5,11 @@
 2. Enraged - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Nose - Slash, Pierce
+2. Body - Pierce
 
 ### Element weakness
-Fire 
+Water 
 
 ### Egg pattern
 ![image info](../assets/anjanath.png)

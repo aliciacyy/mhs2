@@ -11,7 +11,7 @@
 4. Tail - Slash
 
 ### Element weakness
-Fire 
+Dragon 
 
 ### Egg pattern
 ![image info](../assets/dreadqueen_rathian.png)

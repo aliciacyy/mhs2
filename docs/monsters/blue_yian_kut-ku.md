@@ -11,7 +11,7 @@
 4. Tail - 
 
 ### Element weakness
-Fire 
+Water 
 
 ### Egg pattern
 ![image info](../assets/blue_yian_kut-ku.png)
