@@ -5,7 +5,8 @@
 2. After Mega Fireball Charge - Speed (~3 times)
    - Flame Chakram - Single target
    - Explosive Tail - All targets (will keep repeating until tail is broken)
-3. After tail broken: Power
+3. After tail broken - Power
+4. After Mega Fireball Charge again - Technical
 
 ### Parts
 1. Head - Slash 
