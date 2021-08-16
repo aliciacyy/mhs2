@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/kecha_wacha.png)
 
-Egg Tags: 
+Egg Tags: red,yellow

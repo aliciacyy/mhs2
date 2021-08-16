@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/blue_yian_kut-ku.png)
 
-Egg Tags: 
+Egg Tags: blue,yellow

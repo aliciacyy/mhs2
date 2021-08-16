@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/shrouded_nerscylla.png)
 
-Egg Tags: 
+Egg Tags: white,yellow

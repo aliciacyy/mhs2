@@ -15,4 +15,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/gammoth.png)
 
-Egg Tags: 
+Egg Tags: blue,red

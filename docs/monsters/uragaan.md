@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/uragaan.png)
 
-Egg Tags: 
+Egg Tags: yellow,brown

@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/monoblos.png)
 
-Egg Tags: 
+Egg Tags: orange,red

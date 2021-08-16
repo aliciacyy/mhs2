@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/sand_barioth.png)
 
-Egg Tags: 
+Egg Tags: orange,pink

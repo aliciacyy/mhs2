@@ -17,4 +17,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/lagiacrus.png)
 
-Egg Tags: 
+Egg Tags: blue,red

@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/gravios.png)
 
-Egg Tags: 
+Egg Tags: orange,cream

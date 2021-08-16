@@ -16,4 +16,4 @@ Dragon
 ### Egg pattern
 ![image info](../assets/deviljho.png)
 
-Egg Tags: 
+Egg Tags: green,red

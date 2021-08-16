@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/barroth.png)
 
-Egg Tags: 
+Egg Tags: brown,orange

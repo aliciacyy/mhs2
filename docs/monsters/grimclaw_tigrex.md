@@ -17,4 +17,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/grimclaw_tigrex.png)
 
-Egg Tags: 
+Egg Tags: orange,blue

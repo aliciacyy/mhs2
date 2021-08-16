@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/bulldrome.png)
 
-Egg Tags: 
+Egg Tags: brown,cream

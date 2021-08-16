@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/yian_garuga.png)
 
-Egg Tags: 
+Egg Tags: blue,pink

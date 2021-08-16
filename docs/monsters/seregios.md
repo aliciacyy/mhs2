@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/seregios.png)
 
-Egg Tags: 
+Egg Tags: red,yellow

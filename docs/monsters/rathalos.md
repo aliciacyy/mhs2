@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/rathalos.png)
 
-Egg Tags: 
+Egg Tags: red,blue

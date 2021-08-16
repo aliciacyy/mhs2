@@ -17,4 +17,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/velkhana.png)
 
-Egg Tags: 
+Egg Tags: blue,white

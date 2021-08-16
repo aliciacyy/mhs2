@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/green_nargacuga.png)
 
-Egg Tags: 
+Egg Tags: green,yellow

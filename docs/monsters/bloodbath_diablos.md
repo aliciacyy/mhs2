@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/bloodbath_diablos.png)
 
-Egg Tags: 
+Egg Tags: white,blue

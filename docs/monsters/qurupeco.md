@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/qurupeco.png)
 
-Egg Tags: 
+Egg Tags: green,purple

@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/black_diablos.png)
 
-Egg Tags: 
+Egg Tags: brown

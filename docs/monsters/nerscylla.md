@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/nerscylla.png)
 
-Egg Tags: 
+Egg Tags: orange,purple

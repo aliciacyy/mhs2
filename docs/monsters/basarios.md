@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/basarios.png)
 
-Egg Tags: 
+Egg Tags: brown,cream

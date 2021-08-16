@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/tigrex.png)
 
-Egg Tags: 
+Egg Tags: blue,orange

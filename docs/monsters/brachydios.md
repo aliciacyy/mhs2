@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/brachydios.png)
 
-Egg Tags: 
+Egg Tags: blue,green

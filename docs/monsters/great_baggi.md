@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/great_baggi.png)
 
-Egg Tags: 
+Egg Tags: blue,yellow

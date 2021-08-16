@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/brute_tigrex.png)
 
-Egg Tags: 
+Egg Tags: orange,brown

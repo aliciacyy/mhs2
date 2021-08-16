@@ -17,4 +17,4 @@ Dragon
 ### Egg pattern
 ![image info](../assets/ivory_lagiacrus.png)
 
-Egg Tags: 
+Egg Tags: blue,yellow

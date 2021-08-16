@@ -16,4 +16,4 @@ Dragon
 ### Egg pattern
 ![image info](../assets/rathian.png)
 
-Egg Tags: 
+Egg Tags: cream,green

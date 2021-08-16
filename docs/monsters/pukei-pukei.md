@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/pukei-pukei.png)
 
-Egg Tags: 
+Egg Tags: cream,green

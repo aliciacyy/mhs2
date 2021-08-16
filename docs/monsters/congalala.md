@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/congalala.png)
 
-Egg Tags: 
+Egg Tags: pink,green

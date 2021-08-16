@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/barioth.png)
 
-Egg Tags: 
+Egg Tags: orange,white

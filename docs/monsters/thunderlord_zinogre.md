@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/thunderlord_zinogre.png)
 
-Egg Tags: 
+Egg Tags: green,orange
