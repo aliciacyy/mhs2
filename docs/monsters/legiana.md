@@ -17,4 +17,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/legiana.png)
 
-Egg Tags: 
+Egg Tags: white,blue,cream

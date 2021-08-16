@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/cephadrome.png)
 
-Egg Tags: 
+Egg Tags: brown,orange

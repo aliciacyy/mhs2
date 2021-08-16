@@ -17,4 +17,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/jade_barroth.png)
 
-Egg Tags: 
+Egg Tags: blue,teal

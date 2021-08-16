@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/fulgur_anjanath.png)
 
-Egg Tags: 
+Egg Tags: white,orange

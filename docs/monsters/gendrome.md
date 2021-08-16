@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/gendrome.png)
 
-Egg Tags: 
+Egg Tags: green,orange

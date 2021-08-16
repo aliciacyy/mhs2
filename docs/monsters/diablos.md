@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/diablos.png)
 
-Egg Tags: 
+Egg Tags: brown,cream

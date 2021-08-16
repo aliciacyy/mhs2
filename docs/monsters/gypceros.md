@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/gypceros.png)
 
-Egg Tags: 
+Egg Tags: blue,pink

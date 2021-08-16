@@ -17,4 +17,4 @@ Water
 ### Egg pattern
 ![image info](../assets/red_khezu.png)
 
-Egg Tags: 
+Egg Tags: red,cream

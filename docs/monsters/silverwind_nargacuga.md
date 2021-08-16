@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/silverwind_nargacuga.png)
 
-Egg Tags: 
+Egg Tags: white,blue

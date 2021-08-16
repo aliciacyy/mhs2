@@ -15,4 +15,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/emerald_congalala.png)
 
-Egg Tags: 
+Egg Tags: green,orange

@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/great_jaggi.png)
 
-Egg Tags: 
+Egg Tags: purple,red

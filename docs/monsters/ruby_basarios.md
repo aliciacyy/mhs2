@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/ruby_basarios.png)
 
-Egg Tags: 
+Egg Tags: green,pink

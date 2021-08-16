@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/khezu.png)
 
-Egg Tags: 
+Egg Tags: pink,blue

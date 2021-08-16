@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/stygian_zinogre.png)
 
-Egg Tags: 
+Egg Tags: white,purple

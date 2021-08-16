@@ -17,4 +17,4 @@ Water
 ### Egg pattern
 ![image info](../assets/glavenus.png)
 
-Egg Tags: 
+Egg Tags: blue,red

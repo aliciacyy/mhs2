@@ -17,4 +17,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/zamtrios.png)
 
-Egg Tags: 
+Egg Tags: blue,orange

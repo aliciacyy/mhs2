@@ -17,4 +17,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/kirin.png)
 
-Egg Tags: 
+Egg Tags: white,blue

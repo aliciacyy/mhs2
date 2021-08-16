@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/purple_ludroth.png)
 
-Egg Tags: 
+Egg Tags: purple,pink

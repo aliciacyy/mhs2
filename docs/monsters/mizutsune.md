@@ -18,4 +18,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/mizutsune.png)
 
-Egg Tags: 
+Egg Tags: white,cream,pink

@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/white_monoblos.png)
 
-Egg Tags: 
+Egg Tags: cream,brown

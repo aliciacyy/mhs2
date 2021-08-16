@@ -20,4 +20,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/nergigante.png)
 
-Egg Tags: 
+Egg Tags: orange,black

@@ -18,4 +18,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/boltreaver_astalos.png)
 
-Egg Tags: 
+Egg Tags: black,green

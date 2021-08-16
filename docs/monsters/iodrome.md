@@ -13,4 +13,4 @@ Water
 ### Egg pattern
 ![image info](../assets/iodrome.png)
 
-Egg Tags: 
+Egg Tags: orange,purple

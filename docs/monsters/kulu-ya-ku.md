@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/kulu-ya-ku.png)
 
-Egg Tags: 
+Egg Tags: orange,cream

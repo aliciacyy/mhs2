@@ -17,4 +17,4 @@ Water
 ### Egg pattern
 ![image info](../assets/tobi-kadachi.png)
 
-Egg Tags: 
+Egg Tags: blue,black

@@ -20,4 +20,4 @@ Water
 ### Egg pattern
 ![image info](../assets/teostra.png)
 
-Egg Tags: 
+Egg Tags: red,blue

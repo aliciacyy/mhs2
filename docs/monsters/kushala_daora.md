@@ -20,4 +20,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/kushala_daora.png)
 
-Egg Tags: 
+Egg Tags: orange,black

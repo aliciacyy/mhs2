@@ -17,4 +17,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/zinogre.png)
 
-Egg Tags: 
+Egg Tags: blue,yellow

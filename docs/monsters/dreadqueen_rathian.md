@@ -16,4 +16,4 @@ Dragon
 ### Egg pattern
 ![image info](../assets/dreadqueen_rathian.png)
 
-Egg Tags: 
+Egg Tags: green,purple

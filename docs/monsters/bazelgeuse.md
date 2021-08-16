@@ -16,4 +16,4 @@ Thunder
 ### Egg pattern
 ![image info](../assets/bazelgeuse.png)
 
-Egg Tags: 
+Egg Tags: black,white

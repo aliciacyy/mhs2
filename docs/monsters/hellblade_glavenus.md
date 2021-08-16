@@ -18,4 +18,4 @@ Water
 ### Egg pattern
 ![image info](../assets/hellblade_glavenus.png)
 
-Egg Tags: 
+Egg Tags: black,red

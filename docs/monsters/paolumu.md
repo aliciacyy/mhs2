@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/paolumu.png)
 
-Egg Tags: 
+Egg Tags: cream,white

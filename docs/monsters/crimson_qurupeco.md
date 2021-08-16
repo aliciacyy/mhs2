@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/crimson_qurupeco.png)
 
-Egg Tags: 
+Egg Tags: pink,yellow

@@ -16,4 +16,4 @@ Fire
 ### Egg pattern
 ![image info](../assets/lagombi.png)
 
-Egg Tags: 
+Egg Tags: cream,purple

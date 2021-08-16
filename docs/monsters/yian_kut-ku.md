@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/yian_kut-ku.png)
 
-Egg Tags: 
+Egg Tags: pink,blue

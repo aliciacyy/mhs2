@@ -16,4 +16,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/velocidrome.png)
 
-Egg Tags: 
+Egg Tags: blue,orange

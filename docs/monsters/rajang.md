@@ -23,4 +23,4 @@ Ice
 ### Egg pattern
 ![image info](../assets/rajang.png)
 
-Egg Tags: 
+Egg Tags: brown

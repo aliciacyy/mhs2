@@ -16,4 +16,4 @@ Water
 ### Egg pattern
 ![image info](../assets/black_gravios.png)
 
-Egg Tags: 
+Egg Tags: orange,grey
