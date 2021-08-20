@@ -7,6 +7,9 @@ Details include the monster attack patterns, skills used, parts to break, elemen
 WIP, but it will not be the full list.
 
 ### Changelog
+**2021-08-20**
+- Fixed parts weaknesses until L
+
 **2021-08-15**
 - Added the rest of large monsters (part/element weakness & egg tags WIP)
 - Added more small monsters

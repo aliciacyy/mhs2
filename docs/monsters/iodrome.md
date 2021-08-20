@@ -5,7 +5,7 @@
 2. Enraged - Power
 
 ### Parts
-Slash
+None - Slash
 
 ### Element weakness
 Water

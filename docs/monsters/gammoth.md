@@ -4,10 +4,11 @@
 1. Normal - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Blunt
+2. Nose - Slash
+3. Tail - Slash
+4. Legs - Blunt
+5. Body - Blunt
 
 ### Element weakness
 Fire 

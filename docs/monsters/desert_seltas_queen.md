@@ -5,10 +5,9 @@
 2. Enraged - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Slash
+2. Stomach - Pierce
+3. Legs - Blunt
 
 ### Element weakness
 Ice 

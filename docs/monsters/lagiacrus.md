@@ -6,10 +6,9 @@
 3. After Electrify - Technical
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Back - Blunt
+2. Body - Slash
+3. Tail - Blunt
 
 ### Element weakness
 Fire 

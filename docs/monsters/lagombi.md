@@ -5,10 +5,8 @@
 2. Enraged - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Stomach - Slash
+2. Legs - Slash
 
 ### Element weakness
 Fire 
