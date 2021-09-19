@@ -5,10 +5,8 @@
 2. Enraged - Speed
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Slash
+2. Legs - Slash
 
 ### Element weakness
 Water 

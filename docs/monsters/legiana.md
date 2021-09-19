@@ -6,10 +6,9 @@
 3. Flying - Technical
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Slash
+2. Wings - Slash
+3. Body - Slash
 
 ### Element weakness
 Thunder 

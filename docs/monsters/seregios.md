@@ -5,10 +5,10 @@
 2. Enraged - Speed
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Slash
+2. Stomach - Slash
+3. Legs - Slash
+4. Wings - Pierce
 
 ### Element weakness
 Thunder 

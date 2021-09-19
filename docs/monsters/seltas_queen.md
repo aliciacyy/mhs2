@@ -6,10 +6,10 @@
 3. Enraged - Speed
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Seltas - Pierce
+2. Head - Pierce
+3. Legs - Blunt
+4. Body - Pierce
 
 ### Element weakness
 Fire 

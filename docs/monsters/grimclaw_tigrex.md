@@ -6,10 +6,9 @@
    - Attacks twice
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Slash
+2. Stomach - Blunt
+3. Legs - Slash
 
 ### Element weakness
 Thunder 

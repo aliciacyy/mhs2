@@ -5,10 +5,9 @@
 2. Enraged - Speed
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Horn - Blunt
+2. Legs - Slash
+3. Tail - Slash
 
 ### Element weakness
 Ice 

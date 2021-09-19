@@ -6,10 +6,9 @@
 3. After Overcharge - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Body - Slash
+2. Legs - Slash
+3. Tail - Slash
 
 ### Element weakness
 Water 

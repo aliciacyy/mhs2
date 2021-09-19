@@ -6,10 +6,9 @@
 3. After Fire Chakram - Technical
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Slash
+2. Body - Blunt
+3. Tail - None
 
 ### Element weakness
 Water 

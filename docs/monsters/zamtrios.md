@@ -6,10 +6,9 @@
 3. After inflating - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Blunt
+2. Stomach - Slash
+3. Legs - Slash
 
 ### Element weakness
 Thunder 

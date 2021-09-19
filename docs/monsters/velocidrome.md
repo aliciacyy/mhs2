@@ -5,10 +5,7 @@
 2. Enraged - Technical
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+N/A
 
 ### Element weakness
 Ice 

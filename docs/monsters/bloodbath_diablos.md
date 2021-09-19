@@ -5,10 +5,10 @@
 2. Enraged - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Horn - Slash
+2. Stomach - Blunt
+3. Legs - Blunt
+4. Tail - Slash
 
 ### Element weakness
 Water 
