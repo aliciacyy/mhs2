@@ -10,6 +10,9 @@ WIP, but it will not be the full list.
 **2021-08-20**
 - Fixed parts weaknesses until L
 
+**2021-09-19**
+- Added Elderfrost Gammoth and Soulseer Mizutsune
+
 **2021-08-15**
 - Added the rest of large monsters (part/element weakness & egg tags WIP)
 - Added more small monsters
