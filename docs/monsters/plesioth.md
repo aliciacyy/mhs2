@@ -5,10 +5,9 @@
 2. Enraged - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Back - Pierce
+2. Body - Slash
+3. Tail - Pierce
 
 ### Element weakness
 Thunder 

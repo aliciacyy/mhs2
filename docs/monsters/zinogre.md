@@ -6,10 +6,9 @@
 3. After supercharged - Power
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Head - Pierce
+2. Body - Pierce
+3. Tail - Slash
 
 ### Element weakness
 Ice 

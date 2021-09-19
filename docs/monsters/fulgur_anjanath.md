@@ -5,10 +5,7 @@
 2. Enraged - Speed
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Body - Pierce
 
 ### Element weakness
 Ice 

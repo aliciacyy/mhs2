@@ -5,10 +5,8 @@
 2. Enraged - Speed
 
 ### Parts
-1. Head - 
-2. Body - 
-3. Legs - 
-4. Tail - 
+1. Neck Pouch - Pierce
+2. Body - Slash
 
 ### Element weakness
 Fire 
